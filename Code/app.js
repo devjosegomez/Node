@@ -1,4 +1,5 @@
 const fs = require ( 'fs' )
+const utils = require ( './utils.js' )
 const file = 'notes.txt'
 
 console.log ( 'Hi! This is going to be a notes app.' )
