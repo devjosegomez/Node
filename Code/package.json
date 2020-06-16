@@ -10,5 +10,8 @@
     "devjosegomez"
   ],
   "author": "devjosegomez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.1.1"
+  }
 }
